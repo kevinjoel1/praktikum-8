@@ -62,7 +62,7 @@
         </div>
       </div>
       <div class="box-footer clearfix">
-        <button type="submit" class="btn btn-success">Simpan Data Anggota</button>
+        <button type="submit" class="btn btn-success">Simpan Data Buku</button>
       </div>
     </div>
   </form>

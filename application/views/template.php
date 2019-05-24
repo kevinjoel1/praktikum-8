@@ -90,7 +90,7 @@
                   </div>
                 </div>
                 <!-- /.row -->
-              </li> -->
+              </li>
               <!-- Menu Footer-->
               <li class="user-footer">
                 <!-- <div class="pull-left">
@@ -145,7 +145,7 @@
     <div class="pull-right hidden-xs">
       <b>Version</b> 1.0.0
     </div>
-    <strong>Copyright &copy; 2019-2024 <a href="https://adminlte.io">Gede Widiastawan</a>.</strong> All rights
+    <strong>Copyright &copy; 2019-2024 <a href="https://adminlte.io">Afif Ubaidillah</a>.</strong> All rights
     reserved.
   </footer>
   <!-- Control Sidebar -->
